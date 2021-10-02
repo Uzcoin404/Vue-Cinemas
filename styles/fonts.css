@@ -1,41 +1,41 @@
 @font-face {
   font-family: 'Montserrat';
-  src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
+  src: url('../fonts/montserrat/Montserrat-Regular.ttf');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat';
-  src: url('../fonts/Montserrat/Montserrat-Bold.ttf');
+  src: url('../fonts/montserrat/Montserrat-Bold.ttf');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Comfortaa';
-  src: url('../fonts/Comfortaa/Comfortaa-Bold.ttf');
+  src: url('../fonts/comfortaa/Comfortaa-Bold.ttf');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Comfortaa';
-  src: url('../fonts/Comfortaa/Comfortaa-Regular.ttf');
+  src: url('../fonts/comfortaa/Comfortaa-Regular.ttf');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Roboto';
-  src: url('../fonts/Roboto/Roboto-Regular.ttf');
+  src: url('../fonts/roboto/Roboto-Regular.ttf');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Roboto';
-  src: url('../fonts/Roboto/Roboto-Bold.ttf');
+  src: url('../fonts/roboto/Roboto-Bold.ttf');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
